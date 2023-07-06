@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luanarossa
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning mobile
+- 🌱 I’m currently learning mobile with React js
 - 📫 How to reach me in https://www.linkedin.com/in/luana-rossa/
 
 <!---
